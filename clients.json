@@ -1,0 +1,41 @@
+{
+   "client1" : {
+      "name" : "Cecily Cordova",
+      "studentnumber" : "2020000123",
+      "email" : "cCordova123@gmail.com",
+	  "address" : "Wellsford, New Zealand",
+      "id": 1
+   },
+   
+   "client2" : {
+      "name" : "Jago Harmon",
+      "studentnumber" : "2020000234",
+      "email" : "jHarmon234@gmail.com",
+	  "address" : "Spokoynaya, Russian Federation",
+      "id": 2
+   },
+   
+   "client3" : {
+      "name" : "Cara Gallegos",
+      "studentnumber" : "20200000345",
+      "email" : "cGallegos345@gmail.com",
+	  "address" : "Katagum, Nigeria",
+      "id": 3
+   },
+   
+   "client4" : {
+      "name" : "Zain Kidd",
+      "studentnumber" : "20200000456",
+      "email" : "zKidd456@gmail.com",
+	  "address" : "Wehingen, Germany",
+      "id": 4
+   },
+   
+   "client5" : {
+      "name" : "Aneesa Gill",
+      "studentnumber" : "20200000567",
+      "email" : "aGill567@gmail.com",
+	  "address" : "Okanogan, United States",
+      "id": 5
+   }
+}
